@@ -18,11 +18,11 @@ zugleich auch wissen wollen, um welche Abholung es sich handelt.
 Da es das für Bremen in dieser Art nicht gibt und ich immer auf der Suche nach kleinen überschaubaren Problemen bin, um 
 neue Technologien und Praktiken kennen zu lernen, entstand das erste Projekt.
 
-Ich bin an Kritik, Verbesserungsvorschlägen und Unterstützung interessiert!
+Ich bin an Kritik, Verbesserungsvorschlägen und Unterstützung interessiert! 
 
 ## Projekte
 
-Hier findet ihr die Liste der aktuellen Projekte und den jeweiligen Stand. 
+Hier findet sich die Liste der aktuellen Projekte und des jeweiligen Zustands. 
 
 ### Muellsammler
 
@@ -32,4 +32,4 @@ Bremer Adressen durchsucht und regelmäßig eine entsprechende Datei im JSON For
 
 URL | Stand | Sonstiges
 --- | --- | ---
-[github](https://github.com/digitalesbremen/muellsammler) | Produktiv | Läuft einmal in der Woche
+[github](https://github.com/digitalesbremen/muellsammler) | Produktiv | Läuft aktuell einmal in der Woche
