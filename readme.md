@@ -33,3 +33,12 @@ Bremer Adressen durchsucht und regelmäßig eine entsprechende Datei im JSON For
 URL | Stand | Sonstiges
 --- | --- | ---
 [github](https://github.com/digitalesbremen/muellsammler) | Produktiv | Läuft aktuell einmal in der Woche
+
+### Muelltermine
+
+Ein in [GO](https://golang.org/) entwickeltes Programm, welches ermöglicht, die eigene Straße zu suchen und die
+Termine in den eigenen Kalender zu importieren.
+
+URL | Stand | Sonstiges
+--- | --- | ---
+[github](https://github.com/digitalesbremen/muelltermine) | Sehr frühes Stadium | Lädt bisher nur die vom Muellsammler erzeugten Daten in den Speicher
