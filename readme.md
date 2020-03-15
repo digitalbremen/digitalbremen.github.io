@@ -28,7 +28,8 @@ Hier findet ihr die Liste der aktuellen Projekte und den jeweiligen Stand.
 
 Ein in [GO](https://golang.org/) entwickeltes Programm, welches die von der 
 [Bremer Stadtreinigung](https://www.die-bremer-stadtreinigung.de/) bereitgestellten Webseite nach allen Abholdaten aller
-Bremer Adressen durchsucht und regelmäßig eine entsprechende Datei bereitstellt. 
+Bremer Adressen durchsucht und regelmäßig eine entsprechende Datei im JSON Format bereitstellt. 
 
-*URL zum Project* https://github.com/digitalesbremen/muellsammler
-*Stand* Produktiv
+URL | Stand | Sonstiges
+--- | --- | ---
+[github](https://github.com/digitalesbremen/muellsammler) | Produktiv | Läuft einmal in der Woche
